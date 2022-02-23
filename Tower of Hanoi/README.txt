@@ -1,0 +1,1 @@
+This file contains simple Tower of Hanoi game. I created it for sole purpose of coding something, so, once done, I left it graphically primitive.
