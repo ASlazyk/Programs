@@ -1,0 +1,1 @@
+These files contain some exercises I've performed for OOP laboratories.
