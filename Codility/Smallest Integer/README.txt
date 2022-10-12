@@ -1,0 +1,1 @@
+My solution to Codility exercise regarding finding the smallest existing integer not included in given vector of integers.
