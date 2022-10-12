@@ -1,0 +1,1 @@
+This file contains few simple functions I created in order to learn basics of OpenCV in C++.
