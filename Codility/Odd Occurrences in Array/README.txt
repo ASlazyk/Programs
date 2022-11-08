@@ -1,0 +1,1 @@
+My solution to Codility exercise regarding finding the element that occurrs only once.
